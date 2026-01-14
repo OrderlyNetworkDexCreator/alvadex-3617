@@ -37,17 +37,17 @@
   --oui-color-base-2: 40 40 40;
   --oui-color-base-3: 55 55 55;
   --oui-color-base-4: 80 80 80;
-  --oui-color-base-5: 15 15 15;
+  --oui-color-base-5: 0 0 0;
   --oui-color-base-6: 0 0 0;
   --oui-color-base-7: 15 15 15;
   --oui-color-base-8: 30 30 30;
-  --oui-color-base-9: 15 15 15;
+  --oui-color-base-9: 0 0 0;
   --oui-color-base-10: 0 0 0;
 
   --oui-color-base-foreground: 255 255 255;
   --oui-color-line: 60 60 60;
 
-  --oui-color-trading-loss: 255 69 123;
+  --oui-color-trading-loss: 255 0 0;
   --oui-color-trading-loss-contrast: 255 255 255;
   --oui-color-trading-profit: 156 220 106;
   --oui-color-trading-profit-contrast: 0 0 0;
@@ -97,4 +97,11 @@
 html, body {
   font-family: 'Roboto', sans-serif !important;
   font-size: 15px !important;
+}
+
+.orderly-app-container,
+.orderly-app-container *,
+.orderly-app-container *::before,
+.orderly-app-container *::after {
+  font-family: 'Roboto', sans-serif !important;
 }
