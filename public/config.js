@@ -13,7 +13,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_ABSTRACT_WALLET": "true",
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
-  "VITE_WALLETCONNECT_PROJECT_ID": "",
+  "VITE_WALLETCONNECT_PROJECT_ID": "b702bb496a36559f3564781b114546f1",
   "VITE_APP_NAME": "Sigma Markets",
   "VITE_APP_DESCRIPTION": "Trade crypto perpetual futures on Sigma Trades: up to 100x leverage, low fees, BTC, ETH & altcoin perps. Fast execution, secure platform. Start perp trading today!",
   "VITE_HAS_PRIMARY_LOGO": "true",
