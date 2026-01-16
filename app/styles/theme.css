@@ -3,9 +3,9 @@
   --oui-font-size-base: 16px;
 
   /* colors */
-  --oui-color-primary: 255 186 0;
+  --oui-color-primary: 230 230 230;
   --oui-color-primary-light: 194 194 194;
-  --oui-color-primary-darken: 204 149 0;
+  --oui-color-primary-darken: 245 245 245;
   --oui-color-primary-contrast: 0 0 0;
 
   --oui-color-link: 255 186 0;
@@ -44,7 +44,7 @@
   --oui-color-base-9: 8 10 16;
   --oui-color-base-10: 4 6 12;
 
-  --oui-color-base-foreground: 255 255 255;
+  --oui-color-base-foreground: 209 209 209;
   --oui-color-line: 93 83 123;
 
   --oui-color-trading-loss: 251 65 74;
