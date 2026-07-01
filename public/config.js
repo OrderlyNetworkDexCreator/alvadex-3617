@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Trade crypto perpetual futures on Sigma Trades: up to 100x leverage, low fees, BTC, ETH & altcoin perps. Fast execution, secure platform. Start perp trading today!",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Swap,Markets,Portfolio,Leaderboard,Rewards,Vaults,Campaigns,Points",
+  "VITE_ENABLED_MENUS": "Trading,Swap,Markets,Portfolio,Leaderboard,Rewards,Campaigns,Points",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
