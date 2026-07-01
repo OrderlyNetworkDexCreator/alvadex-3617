@@ -23,7 +23,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
-  "VITE_DISCORD_URL": "",
+  "VITE_DISCORD_URL": "https://discord.gg/JuXBmE38T",
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "Sigma Markets",
   "VITE_SEO_SITE_DESCRIPTION": "Trade crypto perpetual futures on Sigma Trades: up to 100x leverage, low fees, BTC, ETH & altcoin perps. Fast execution, secure platform. Start perp trading today!",
