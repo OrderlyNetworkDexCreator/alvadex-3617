@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "Sigma Markets",
   "VITE_SEO_SITE_DESCRIPTION": "Trade crypto perpetual futures on Sigma Trades: up to 100x leverage, low fees, BTC, ETH & altcoin perps. Fast execution, secure platform. Start perp trading today!",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/alvadex-3617/",
+  "VITE_SEO_SITE_URL": "https://www.sigmamarkets.xyz",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
